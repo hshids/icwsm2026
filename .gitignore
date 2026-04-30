@@ -1,0 +1,69 @@
+# macOS and editor files
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.idea/
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.venv_pdf/
+
+# Jupyter execution artifacts
+*.nbconvert.ipynb
+*.html
+
+# Large or restricted data
+data/raw/
+data/interim/
+data/private/
+*.pkl
+*.joblib
+*.mco
+*.mallet
+*.mallet.gz
+*.infer
+
+# Large generated corpora and parser outputs
+*_documents_corpus_*.csv
+*_documents_corpus_*.txt
+*_vocab_corpus_*.txt
+parsed_*.csv
+parsed_*.json
+sample_*.json
+framing_downsampled_all*.json
+updated_framing_data_with_category.json
+processed_data.json
+downsample_processed_data.json
+thetaJsons*.json
+
+# Third-party tools and compressed archives
+mallet-*/
+maltparser-*/
+*.zip
+*.tar.gz
+
+# Paper build and submission artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*copyrightform*
+
+# Local generated outputs
+output/
+tmp/
+*.pptx
+*.docx
+~$*
