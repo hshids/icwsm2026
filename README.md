@@ -8,7 +8,7 @@ Accepted at the **Twentieth International AAAI Conference on Web and Social Medi
 
 ![Project overview infographic](assets/icwsm2026_overview_infographic.jpg)
 
-The infographic above is a project overview image adapted from an earlier project poster. It is included to summarize the analytic idea, not as the final presented ICWSM 2026 poster.
+The infographic above is a project overview image adapted from an earlier project presentation. It is included to summarize the analytic idea, not as the final presented ICWSM 2026 presentation.
 
 ## Project Overview
 
