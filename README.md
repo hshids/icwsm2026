@@ -106,4 +106,5 @@ Formal citation information will be added after the ICWSM 2026 proceedings entry
 
 ## Contact
 
-For questions about the repository, please contact Hanjing Shi.
+For questions about the repository, please contact Hanjing Shi (hasa23@lehigh.edu).
+Happy to Connect through Linkedin (https://www.linkedin.com/in/hanjing-shi-1803561ab/)
